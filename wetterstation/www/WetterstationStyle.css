@@ -1,0 +1,84 @@
+html
+	{
+	background-color: silver;
+	width:auto;
+	}
+	
+h1 
+	{
+	font-family: Garamond, serif;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align: center;
+	padding: 15px;
+	}
+
+#ueberschrift 
+	{
+	font-family: Garamond, serif;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align: center;
+	padding: 15px;
+	}
+	
+#creator
+	{
+	font-family: Garamond, serif;
+	font-style: italic;
+	font-weight:300;
+	margin-bottom: 2rem;
+	text-align: center;
+	padding: 15px;
+	}
+	
+#menue
+	{
+	width: 650px;
+	height: 220px;
+	border: 5px black double;
+	margin-left: auto;
+    margin-right: auto;
+	}
+
+h2 
+	{
+	font-family: Garamond, serif;
+	font-weight: normal;
+	text-align: center;
+	padding: 15px;
+	}
+	
+table, th, td 
+	{
+	overflow-x:auto;
+	font-family: Garamond, serif;
+	font-weight: normal;
+	table-layout: autofixed;
+	border: 1px solid black;
+	text-align: center;
+	padding: 15px;
+	margin-left: auto;
+    margin-right: auto;
+	}
+	
+#diagramme.div
+	{
+	margin-left: auto;
+    margin-right: auto;
+	}
+
+#diagramme.canvas
+	{
+	postition: relative;
+	}
+
+
+#mapid
+	{
+	width: 800px;
+	height: 500px;
+	margin-left: auto;
+    margin-right: auto;
+	border: solid black 3px;
+	}
